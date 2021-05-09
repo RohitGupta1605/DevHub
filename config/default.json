@@ -1,4 +1,4 @@
 {
-    "mongoURI":"mongodb://127.0.0.1:27017/devhub",
+    "mongoURI":"mongodb+srv://Kshitij:qwertyuiop@1234567890@devhub.b0fns.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret":"mysecrettoken"
 }
