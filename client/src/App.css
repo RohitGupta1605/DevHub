@@ -1,7 +1,7 @@
 /* Global Styles */
 :root {
-    --primary-color: #17a2b8;
-    --dark-color: #343a40;
+    --primary-color: rgba(48, 224, 86, 0.938);
+    --dark-color: rgb(2, 68, 126);
     --light-color: #f4f4f4;
     --danger-color: #dc3545;
     --success-color: #28a745;

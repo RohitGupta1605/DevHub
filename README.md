@@ -1,4 +1,4 @@
-# DevOPs
+# DevHub
 <h4>Social media for developers built on MERN Stack </h4>
 <h4>Functionalities of the app:</h4>
   >Signup or login into DevConnector </br>
